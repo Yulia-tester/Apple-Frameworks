@@ -16,6 +16,7 @@ struct Framework: Hashable, Identifiable {
 }
 
 struct MockData {
+
     
     static let sampleFramework = Framework(name: "ARKit",
                                            imageName: "arkit",
